@@ -67,7 +67,7 @@ const AppContextProvider = (props)=> {
  
 
    const value= {
-    user, setUser, showLogin, setShowLogin, backendUrl, token, setToken, credit, setCredit, loadCreditsData, logout
+    user, setUser, showLogin, setShowLogin, backendUrl, token, setToken, credit, setCredit, loadCreditsData, logout, generateImage
    }
 
    return (
